@@ -29,7 +29,7 @@ Visit my channel 👉 : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ
 
 Results | #1 |
 --- | --- |
-Images | <img src="https://user-images.githubusercontent.com/58719230/106362635-efb04080-6349-11eb-8802-eeb179c7a06f.png" width="350" height="450"> |
+Images | <img src="https://user-images.githubusercontent.com/58719230/106362635-efb04080-6349-11eb-8802-eeb179c7a06f.png" width="350" height="800"> |
 
 ## License
 
