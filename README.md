@@ -5,6 +5,10 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/vijayinyoutube/loginscreen)
 [![Flutter](https://img.shields.io/badge/_Flutter_-App-grey.svg?&logo=Flutter&logoColor=white&labelColor=blue)](https://github.com/vijayinyoutube/loginscreen)
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58719230/106362576-a3fd9700-6349-11eb-9e62-03ab0be4f34a.png" width="100%">
+</p>
+
 ## Flutter
 [Flutter](https://flutter.dev/) is a crossplatfrom UI tool kit that helps in developing native Android and iOS app from a single code base.
 
@@ -19,16 +23,13 @@ To know more awesome content about Flutter.,
 
 Visit my channel 👉 : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ
 
-## Folder Structure
-
-<img src="https://user-images.githubusercontent.com/58719230/106362522-54b76680-6349-11eb-9e66-216954c20a87.png">
 
 
 ## Sample Results
 
-Results | #1 | #2 |
---- | --- | --- |
-Images | <img src="https://user-images.githubusercontent.com/58719230/105718126-e9cfef00-5f46-11eb-90e3-e5ac62c286fa.png" width="350" height="450"> | <img src="https://user-images.githubusercontent.com/58719230/105718155-f2c0c080-5f46-11eb-9e57-dd47a9ac24a0.png" width="350" height="450"> |
+Results | #1 |
+--- | --- |
+Images | <img src="https://user-images.githubusercontent.com/58719230/106362635-efb04080-6349-11eb-8802-eeb179c7a06f.png" width="350" height="450"> |
 
 ## License
 
